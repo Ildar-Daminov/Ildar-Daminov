@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning [Data Science at University of Texas at Austin](https://www.mygreatlearning.com/data-science-data-management-course/?utm_source=aemail&utm_medium=Introduction&utm_campaign=PGP-DSDMS)
 
-- 📝 I regularly write articles on [Dynamic Thermal Ratings of power transformers and cables ](https://www.researchgate.net/profile/Ildar-Daminov-2)
+- 📝 I regularly write articles on [Dynamic Thermal Ratings of power transformers and cables, Offshore wind energy ](https://www.researchgate.net/profile/Ildar-Daminov-2)
 
 - 💬 Ask me about **IEC/IEEE thermal model of power transformers, submarine export cables**
 
