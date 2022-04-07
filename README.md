@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ildar-daminov&label=Profile%20views&color=0e75b6&style=flat" alt="ildar-daminov" /> </p>
 
-- 🔭 I’m currently working on [PostDoc project CELT4Wind at Nantes University](https://www.weamec.fr/en/projects/celt4wind/)
+- 🔭 I’m currently looking for PostDoc positions in energy management and/or planning of smart grids
 
 - 🌱 I’m currently learning [Data Science at University of Texas at Austin](https://www.mygreatlearning.com/data-science-data-management-course/?utm_source=aemail&utm_medium=Introduction&utm_campaign=PGP-DSDMS)
 
