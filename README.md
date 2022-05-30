@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ildar DAMINOV</h1>
 <h3 align="center">Passionate researcher in smart grids and wind energy</h3>
 
-<img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/724/1*Urc28sbnORGOW5oyohQ06g.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ildar-daminov&label=Profile%20views&color=0e75b6&style=flat" alt="ildar-daminov" /> </p>
 
 - 🔭 I’m currently looking for PostDoc positions in energy management and/or planning of smart grids
