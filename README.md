@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently looking for PostDoc positions in energy management and/or planning of smart grids
 
-- 🌱 I’m currently learning [Data Science at University of Texas at Austin](https://www.mygreatlearning.com/data-science-data-management-course/?utm_source=aemail&utm_medium=Introduction&utm_campaign=PGP-DSDMS)
+- 🌱 I’m currently learning [Data Science and Data Management at University of Texas at Austin](https://www.mygreatlearning.com/data-science-data-management-course/?utm_source=aemail&utm_medium=Introduction&utm_campaign=PGP-DSDMS)
 
 - 📝 I regularly write articles on [Dynamic Thermal Ratings of power transformers and cables, Offshore wind energy ](https://www.researchgate.net/profile/Ildar-Daminov-2)
 
