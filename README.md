@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ildar-daminov&label=Profile%20views&color=0e75b6&style=flat" alt="ildar-daminov" /> </p>
 
-- 🔭 I’m currently looking for PostDoc positions in energy management and/or planning of smart grids
-
 - 🌱 I’m currently learning Data Science and Data Management at University of Texas at Austin
 
 - 📝 I regularly write articles on [Dynamic Thermal Ratings of power transformers and cables, Offshore wind energy ](https://www.researchgate.net/profile/Ildar-Daminov-2)
