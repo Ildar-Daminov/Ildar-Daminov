@@ -11,12 +11,11 @@
 
 - 📫 How to reach me **daminovib@gmail.com**
 
-- 📄 Know about my experiences [on researchgate](https://www.researchgate.net/profile/Ildar-Daminov-2)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ildar-daminov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ildar-daminov/" height="30" width="40" /></a>
+<a href="https://www.researchgate.net/profile/Ildar-Daminov-2" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/1200px-ResearchGate_icon_SVG.svg.png" alt="https://www.researchgate.net/profile/Ildar-Daminov-2" height="40" width="40" /></a>
 </p>
 
 
