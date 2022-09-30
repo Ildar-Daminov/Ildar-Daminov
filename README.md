@@ -5,7 +5,8 @@
 
 - 🌱 I’m currently learning Data Science and Data Management at University of Texas at Austin
 
-- 📝 I regularly write articles on [Dynamic Thermal Ratings of power transformers and cables, Offshore wind energy. ](https://www.researchgate.net/profile/Ildar-Daminov-2) My PhD thesis "Dynamic Thermal Ratings of Power Transformers : Modelling, Concepts, and Application case" can be found [here](https://www.researchgate.net/publication/363383515_Dynamic_Thermal_Rating_of_Power_Transformers_Modelling_Concepts_and_Application_case)
+- 📝 I regularly write articles on [Dynamic Thermal Ratings of power transformers and cables, Offshore wind energy. ](https://www.researchgate.net/profile/Ildar-Daminov-2) 
+- My PhD thesis "Dynamic Thermal Ratings of Power Transformers : Modelling, Concepts, and Application case" can be found [here](https://www.researchgate.net/publication/363383515_Dynamic_Thermal_Rating_of_Power_Transformers_Modelling_Concepts_and_Application_case)
 
 - 💬 Ask me about **IEC/IEEE thermal model of power transformers, submarine export cables**
 
