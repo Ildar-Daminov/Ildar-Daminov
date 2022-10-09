@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ildar DAMINOV</h1>
-<h3 align="center">Passionate researcher in smart grids and wind energy</h3>
+<h3 align="center">Passionate researcher in smart grids</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ildar-daminov&label=Profile%20views&color=0e75b6&style=flat" alt="ildar-daminov" /> </p>
 
