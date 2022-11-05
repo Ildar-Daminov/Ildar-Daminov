@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ildar-daminov&label=Profile%20views&color=0e75b6&style=flat" alt="ildar-daminov" /> </p>
 
-- 🌱 I’m currently learning [Data Science and Data Management at University of Texas at Austin](https://eportfolio.mygreatlearning.com/ildar-daminov). My github repository with completed projects is available [here](https://github.com/Ildar-Daminov/completed_projects_in_data_science_and_data_management_program)
+- 🌱 I’m currently learning [Data Science and Data Management at University of Texas at Austin](https://eportfolio.mygreatlearning.com/ildar-daminov). Completed projects are available [in GitHub repository](https://github.com/Ildar-Daminov/completed_projects_in_data_science_and_data_management_program)
 
 - 📝 I regularly write articles on [Dynamic Thermal Ratings of power transformers and power cables. ](https://www.researchgate.net/profile/Ildar-Daminov-2) 
 - 📝 My PhD thesis: ["Dynamic Thermal Ratings of Power Transformers : Modelling, Concepts, and Application case"](https://www.researchgate.net/publication/363383515_Dynamic_Thermal_Rating_of_Power_Transformers_Modelling_Concepts_and_Application_case)
